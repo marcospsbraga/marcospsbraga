@@ -1,4 +1,4 @@
-![Marcos Paulo Braga — tecnologia, operações e automação](assets/capa.svg)
+![Marcos Paulo Braga — capa pessoal preta, nome centralizado](assets/capa-preta.svg)
 
 # Marcos Paulo Braga
 
