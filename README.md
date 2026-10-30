@@ -12,7 +12,7 @@ Gosto de transformar problemas reais em processos claros, ferramentas úteis e s
 
 | Projeto | O que é | O que você pode conferir |
 | --- | --- | --- |
-| **[Incident SLA Lab](projects/incident-sla-lab/README.md)** | Ferramenta didática em Python que analisa incidentes e indicadores de atendimento. | [Código](projects/incident-sla-lab/incident_sla_lab.py) · [Testes](projects/incident-sla-lab/test_incident_sla_lab.py) · [Dados sintéticos](projects/incident-sla-lab/exemplos/incidentes.csv) |
+| **[Incident SLA Lab](https://github.com/marcospsbraga/incident-sla-lab)** | Ferramenta didática em Python que analisa incidentes e indicadores de atendimento. | [Código](https://github.com/marcospsbraga/incident-sla-lab/blob/main/incident_sla_lab.py) · [Testes](https://github.com/marcospsbraga/incident-sla-lab/blob/main/test_incident_sla_lab.py) · [Dados sintéticos](https://github.com/marcospsbraga/incident-sla-lab/blob/main/exemplos/incidentes.csv) |
 | **[TITAN Command Center](cases/titan-command-center.md)** | Infraestrutura pessoal para organizar projetos, diagnósticos e agentes de IA com controles de autorização. | Estudo de caso técnico; repositório privado |
 | **IMPROVE OS** | Plataforma de operações empresariais em desenvolvimento pela IMPROVE. | Projeto empresarial privado, sem divulgação de código |
 | **JAY AI** | Projeto independente de assistente pessoal de IA. | Fase de arquitetura, ainda sem produto demonstrável |
