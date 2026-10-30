@@ -1,4 +1,4 @@
-![Marcos Paulo Braga — letras espaçadas, linhas laterais e fundo preto](assets/capa-escolhida.webp)
+![Marcos Paulo Braga — capa horizontal preta com nome e linhas laterais](assets/capa-horizontal.webp)
 
 # Marcos Paulo Braga
 
