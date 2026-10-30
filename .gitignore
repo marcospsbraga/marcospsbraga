@@ -1,0 +1,16 @@
+# Arquivos gerados ao testar os projetos demonstrativos
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+*.log
+
+# Dados locais não destinados à publicação
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+.local/

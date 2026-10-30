@@ -1,43 +1,41 @@
-# Olá, eu sou Marcos Paulo! 👋
+![Marcos Paulo Braga — tecnologia, operações e automação](assets/capa.svg)
 
-**Fundador da IMPROVE | Tecnologia, desenvolvimento de sistemas e automação com IA**
+# Olá! Sou Marcos Paulo Braga 👋
 
-Minha trajetória une experiência profissional em **operações e monitoramento de telecomunicações** com o desenvolvimento de produtos digitais. Na IMPROVE, participo da concepção, arquitetura de produto, definição de requisitos, revisão e evolução de sistemas com apoio de ferramentas de inteligência artificial.
+**Operações de telecomunicações · Automação · Desenvolvimento de produtos digitais**
 
-Tenho interesse especial em sistemas que realmente resolvem problemas: interfaces bem planejadas, processos automatizados, integrações seguras e soluções que possam evoluir com o tempo.
+Atuo profissionalmente com **monitoramento e operações de telecomunicações**. Também sou fundador da [IMPROVE](https://github.com/JoinImprove), onde participo do planejamento, da definição de requisitos e da evolução de soluções digitais com apoio de IA e desenvolvimento colaborativo.
 
-## 🚀 Projetos em que estou envolvido
+Gosto de transformar problemas reais em processos claros, ferramentas úteis e sistemas que possam ser testados e melhorados. **Este perfil documenta o que já existe, o que ainda está sendo desenvolvido e o que aprendo no caminho.**
 
-| Projeto | Sobre | Estágio |
-|:--|:--|:--|
-| **IMPROVE OS** | Plataforma operacional empresarial integrada, com áreas administrativas, comerciais e documentos | Em desenvolvimento — repositório privado da IMPROVE |
-| **IMPROVE Website** | Website institucional e experiência digital da IMPROVE | Em desenvolvimento — repositório privado da IMPROVE |
-| **TITAN Command Center** | Central pessoal para coordenar projetos, agentes de IA, ferramentas e tarefas no computador | Infraestrutura inicial em funcionamento; interface visual planejada |
-| **JAY AI** | Assistente pessoal de IA com memória, interfaces e ações autorizadas | Planejamento e arquitetura |
+## Projetos em destaque
 
-> **Sobre os projetos privados:** o código da IMPROVE pertence à empresa e não é reproduzido aqui. Estudos de caso, capturas de tela e demonstrações serão adicionados apenas após revisão e autorização.
+| Projeto | O que é | O que você pode conferir |
+| --- | --- | --- |
+| **[Incident SLA Lab](projects/incident-sla-lab/README.md)** | Ferramenta didática em Python que analisa incidentes e indicadores de atendimento. | [Código](projects/incident-sla-lab/incident_sla_lab.py) · [Testes](projects/incident-sla-lab/test_incident_sla_lab.py) · [Dados sintéticos](projects/incident-sla-lab/exemplos/incidentes.csv) |
+| **[TITAN Command Center](cases/titan-command-center.md)** | Infraestrutura pessoal para organizar projetos, diagnósticos e agentes de IA com controles de autorização. | Estudo de caso técnico; repositório privado |
+| **IMPROVE OS** | Plataforma de operações empresariais em desenvolvimento pela IMPROVE. | Projeto empresarial privado, sem divulgação de código |
+| **JAY AI** | Projeto independente de assistente pessoal de IA. | Fase de arquitetura, ainda sem produto demonstrável |
 
-## 🛠️ Tecnologias e ferramentas com que venho trabalhando
+> O **Incident SLA Lab** é uma demonstração pública construída com dados inteiramente fictícios. Não utiliza nem representa informações de clientes, da operadora ou do empregador.
 
-- **Web:** React, TypeScript, JavaScript, Vite, HTML e CSS
-- **Backend e dados:** Supabase e PostgreSQL
-- **Automação e desenvolvimento:** Python, Git, GitHub, agentes de IA e ferramentas de desenvolvimento assistido
-- **Publicação e operação:** Cloudflare Pages, testes automatizados, documentação e acompanhamento de mudanças
+## Ferramentas e tecnologias
 
-Essas tecnologias são utilizadas ou estudadas nos projetos; minha experiência e meu nível de domínio variam conforme a ferramenta.
+- **Desenvolvimento e automação:** Python, Git, GitHub, JavaScript, TypeScript, React e Vite
+- **Dados e infraestrutura:** PostgreSQL, Supabase e Cloudflare Pages
+- **Métodos:** documentação, testes, revisão, controle de versões, análise de processos e utilização responsável de agentes de IA
 
-## 💡 Como gosto de trabalhar
+*Meu nível de domínio varia entre essas ferramentas. Os projetos combinam desenvolvimento próprio, trabalho colaborativo e assistência de IA; procuro identificar com clareza o que foi realmente implementado e validado.*
 
-- Priorizar **funcionalidade real** antes de acabamento visual.
-- Transformar problemas em fluxos claros, planejados e testáveis.
-- Respeitar privacidade, permissões e proteção de informações.
-- Documentar decisões, realizar revisões e melhorar continuamente.
-- Ser transparente sobre contribuições individuais, trabalho em equipe e assistência de IA.
+## Minha experiência aplicada
 
-## 📌 Em construção
+- **Operações:** acompanhamento de incidentes, priorização, monitoramento e comunicação de ocorrências.
+- **Projetos digitais:** concepção, organização de requisitos, verificação de entregas e evolução de soluções.
+- **Automação e IA:** experimentação com ferramentas, agentes e processos sujeitos a permissões e auditoria.
+- **Segurança e privacidade:** separação de projetos pessoais e empresariais, proteção de repositórios e cuidado com dados sensíveis.
 
-Este é meu portfólio profissional no GitHub. Estou organizando estudos de caso e projetos públicos para demonstrar não apenas o resultado final, mas também o problema, minhas responsabilidades e os aprendizados de cada desenvolvimento.
+## Contato e links
 
----
+[**GitHub**](https://github.com/marcospsbraga) · [**IMPROVE**](https://github.com/JoinImprove)
 
-**GitHub:** [@marcospsbraga](https://github.com/marcospsbraga) · **IMPROVE:** [@JoinImprove](https://github.com/JoinImprove)
+*Portfólio em evolução — demonstrações publicadas somente quando estão funcionais e podem ser descritas com transparência.*
