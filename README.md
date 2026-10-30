@@ -1,16 +1,43 @@
-## Hi there 👋
+# Olá, eu sou Marcos Paulo! 👋
 
-<!--
-**emipe420/emipe420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Fundador da IMPROVE | Tecnologia, desenvolvimento de sistemas e automação com IA**
 
-Here are some ideas to get you started:
+Minha trajetória une experiência profissional em **operações e monitoramento de telecomunicações** com o desenvolvimento de produtos digitais. Na IMPROVE, participo da concepção, arquitetura de produto, definição de requisitos, revisão e evolução de sistemas com apoio de ferramentas de inteligência artificial.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tenho interesse especial em sistemas que realmente resolvem problemas: interfaces bem planejadas, processos automatizados, integrações seguras e soluções que possam evoluir com o tempo.
+
+## 🚀 Projetos em que estou envolvido
+
+| Projeto | Sobre | Estágio |
+|:--|:--|:--|
+| **IMPROVE OS** | Plataforma operacional empresarial integrada, com áreas administrativas, comerciais e documentos | Em desenvolvimento — repositório privado da IMPROVE |
+| **IMPROVE Website** | Website institucional e experiência digital da IMPROVE | Em desenvolvimento — repositório privado da IMPROVE |
+| **TITAN Command Center** | Central pessoal para coordenar projetos, agentes de IA, ferramentas e tarefas no computador | Infraestrutura inicial em funcionamento; interface visual planejada |
+| **JAY AI** | Assistente pessoal de IA com memória, interfaces e ações autorizadas | Planejamento e arquitetura |
+
+> **Sobre os projetos privados:** o código da IMPROVE pertence à empresa e não é reproduzido aqui. Estudos de caso, capturas de tela e demonstrações serão adicionados apenas após revisão e autorização.
+
+## 🛠️ Tecnologias e ferramentas com que venho trabalhando
+
+- **Web:** React, TypeScript, JavaScript, Vite, HTML e CSS
+- **Backend e dados:** Supabase e PostgreSQL
+- **Automação e desenvolvimento:** Python, Git, GitHub, agentes de IA e ferramentas de desenvolvimento assistido
+- **Publicação e operação:** Cloudflare Pages, testes automatizados, documentação e acompanhamento de mudanças
+
+Essas tecnologias são utilizadas ou estudadas nos projetos; minha experiência e meu nível de domínio variam conforme a ferramenta.
+
+## 💡 Como gosto de trabalhar
+
+- Priorizar **funcionalidade real** antes de acabamento visual.
+- Transformar problemas em fluxos claros, planejados e testáveis.
+- Respeitar privacidade, permissões e proteção de informações.
+- Documentar decisões, realizar revisões e melhorar continuamente.
+- Ser transparente sobre contribuições individuais, trabalho em equipe e assistência de IA.
+
+## 📌 Em construção
+
+Este é meu portfólio profissional no GitHub. Estou organizando estudos de caso e projetos públicos para demonstrar não apenas o resultado final, mas também o problema, minhas responsabilidades e os aprendizados de cada desenvolvimento.
+
+---
+
+**GitHub:** [@emipe420](https://github.com/emipe420) · **IMPROVE:** [@JoinImprove](https://github.com/JoinImprove)
