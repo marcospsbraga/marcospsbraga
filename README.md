@@ -40,4 +40,4 @@ Este é meu portfólio profissional no GitHub. Estou organizando estudos de caso
 
 ---
 
-**GitHub:** [@emipe420](https://github.com/emipe420) · **IMPROVE:** [@JoinImprove](https://github.com/JoinImprove)
+**GitHub:** [@marcospsbraga](https://github.com/marcospsbraga) · **IMPROVE:** [@JoinImprove](https://github.com/JoinImprove)
