@@ -1,38 +1,54 @@
 ![Marcos Paulo Braga — tecnologia, operações e automação](assets/capa.svg)
 
-# Olá! Sou Marcos Paulo Braga 👋
+# Marcos Paulo Braga
 
-**Operações de telecomunicações · Automação · Desenvolvimento de produtos digitais**
+**Fundador e CEO da IMPROVE · Produtos digitais · Automação e inteligência artificial**
 
-Atuo profissionalmente com **monitoramento e operações de telecomunicações**. Também sou fundador da [IMPROVE](https://github.com/JoinImprove), onde participo do planejamento, da definição de requisitos e da evolução de soluções digitais com apoio de IA e desenvolvimento colaborativo.
+Minha trajetória combina experiência prática em **operações e monitoramento de telecomunicações** com a criação de soluções digitais. À frente da [IMPROVE](https://github.com/JoinImprove), participo da definição da visão de produto, do levantamento de requisitos, da organização de prioridades e da validação de projetos de tecnologia.
 
-Gosto de transformar problemas reais em processos claros, ferramentas úteis e sistemas que possam ser testados e melhorados. **Este perfil documenta o que já existe, o que ainda está sendo desenvolvido e o que aprendo no caminho.**
+Tenho interesse especial na interseção entre **negócio, tecnologia e experiência do usuário**: compreender um problema real, transformá-lo em uma proposta clara e conduzir sua evolução com responsabilidade, segurança e qualidade.
 
-## Projetos em destaque
+> **Minha atuação:** concepção e direção de produtos, gestão de requisitos, avaliação de interfaces, testes e acompanhamento do desenvolvimento colaborativo com equipes e ferramentas de IA. Não apresento trabalho coletivo ou assistido por IA como autoria individual de todo o código.
 
-| Projeto | O que é | O que você pode conferir |
-| --- | --- | --- |
-| **[TITAN Command Center](cases/titan-command-center.md)** | Infraestrutura pessoal para organizar projetos, diagnósticos e agentes de IA com controles de autorização. | Estudo de caso técnico; repositório privado |
-| **IMPROVE OS** | Plataforma de operações empresariais em desenvolvimento pela IMPROVE. | Projeto empresarial privado, sem divulgação de código |
-| **JAY AI** | Projeto independente de assistente pessoal de IA. | Fase de arquitetura, ainda sem produto demonstrável |
+## Projetos e iniciativas
 
-## Ferramentas e tecnologias
+### Em desenvolvimento
 
-- **Desenvolvimento e automação:** Python, Git, GitHub, JavaScript, TypeScript, React e Vite
-- **Dados e infraestrutura:** PostgreSQL, Supabase e Cloudflare Pages
-- **Métodos:** documentação, testes, revisão, controle de versões, análise de processos e utilização responsável de agentes de IA
+| Projeto | Visão | Apresentação |
+| :--- | :--- | :--- |
+| **IMPROVE OS** | Plataforma empresarial integrada para centralizar operações, processos e informações. | Projeto corporativo em desenvolvimento; código privado |
+| **[IMPROVE Website](cases/improve-website.md)** | Presença digital institucional da IMPROVE, com foco em identidade, navegação, clareza e experiência premium. | [Conhecer o projeto](cases/improve-website.md) |
+| **[TITAN Command Center](cases/titan-command-center.md)** | Ambiente pessoal para organizar desenvolvimento, diagnósticos e uso controlado de ferramentas e agentes de IA. | [Estudo de caso](cases/titan-command-center.md) |
 
-*Meu nível de domínio varia entre essas ferramentas. Os projetos combinam desenvolvimento próprio, trabalho colaborativo e assistência de IA; procuro identificar com clareza o que foi realmente implementado e validado.*
+### Produtos em concepção
 
-## Minha experiência aplicada
+| Projeto | Visão | Apresentação |
+| :--- | :--- | :--- |
+| **[Atlévora](cases/atlevora.md)** · *nome provisório* | Plataforma para academias que aproxima a gestão profissional da jornada do aluno, inclusive entre unidades e academias diferentes. | [Explorar o conceito](cases/atlevora.md) |
+| **[Nutrélume](cases/nutrelume.md)** · *nome provisório* | Ecossistema digital de nutrição com ambiente profissional, experiência do paciente e possibilidades de IA assistiva. | [Explorar o conceito](cases/nutrelume.md) |
+| **JAY AI** | Projeto pessoal de assistente com memória, interfaces e ações autorizadas. | Arquitetura em estudo; ainda sem produto publicado |
 
-- **Operações:** acompanhamento de incidentes, priorização, monitoramento e comunicação de ocorrências.
-- **Projetos digitais:** concepção, organização de requisitos, verificação de entregas e evolução de soluções.
-- **Automação e IA:** experimentação com ferramentas, agentes e processos sujeitos a permissões e auditoria.
-- **Segurança e privacidade:** separação de projetos pessoais e empresariais, proteção de repositórios e cuidado com dados sensíveis.
+**Transparência:** *em desenvolvimento* significa que há trabalho técnico ou de produto em andamento, não lançamento concluído. *Em concepção* significa exploração de necessidades e possibilidades; não equivale a software implementado. Os nomes Atlévora e Nutrélume são propostas de apresentação, ainda sem homologação ou avaliação formal de marca.
 
-## Contato e links
+## Áreas em que atuo
 
-[**GitHub**](https://github.com/marcospsbraga) · [**IMPROVE**](https://github.com/JoinImprove)
+- **Estratégia e produto:** entendimento de necessidades, visão de solução, requisitos, prioridades, fluxos e evolução por etapas.
+- **Tecnologia e automação:** acompanhamento de projetos web, integrações, dados, ferramentas de IA e processos automatizados.
+- **Qualidade e segurança:** validação funcional, documentação, privacidade, controle de acesso e melhoria contínua.
+- **Operações:** experiência de monitoramento, atenção a incidentes, rotinas críticas e organização de informações.
 
-*Portfólio em evolução — demonstrações publicadas somente quando estão funcionais e podem ser descritas com transparência.*
+## Tecnologias no meu ambiente de projetos
+
+`React` · `TypeScript` · `JavaScript` · `Vite` · `Python` · `Supabase` · `PostgreSQL` · `Git` · `GitHub` · `Cloudflare Pages`
+
+Essas são tecnologias presentes em projetos e estudos com os quais trabalho. **Minha experiência prática e profundidade técnica variam entre elas**; a execução envolve diferentes contribuições e desenvolvimento assistido por IA.
+
+## Como encaro a construção de produtos
+
+Acredito que um bom sistema não nasce de uma lista de funcionalidades. Ele começa com um problema bem compreendido, decisões documentadas, prioridades realistas e validações contínuas. Meu objetivo é criar experiências digitais úteis, sustentáveis e evolutivas — sem prometer o que ainda não foi entregue.
+
+---
+
+**[GitHub pessoal](https://github.com/marcospsbraga)** · **[IMPROVE no GitHub](https://github.com/JoinImprove)**
+
+<sub>Este portfólio reúne experiências, iniciativas em desenvolvimento e conceitos de produtos. Materiais empresariais são apresentados em nível público, sem reprodução de código ou informações confidenciais.</sub>
