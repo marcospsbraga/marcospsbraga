@@ -1,4 +1,4 @@
-![Marcos Paulo Braga — capa pessoal preta, nome centralizado](assets/capa-preta.svg)
+![Marcos Paulo Braga — letras espaçadas, linhas laterais e fundo preto](assets/capa-escolhida.webp)
 
 # Marcos Paulo Braga
 
