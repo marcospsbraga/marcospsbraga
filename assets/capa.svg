@@ -1,8 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title desc">
-<title id="title">Marcos Paulo Braga, tecnologia e operações</title>
-<desc id="desc">Capa em tons de azul e ciano para portfólio profissional.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#08142f"/><stop offset=".55" stop-color="#0b1f4d"/><stop offset="1" stop-color="#030712"/></linearGradient><linearGradient id="stroke" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#00bfff"/><stop offset="1" stop-color="#4f77d7"/></linearGradient><pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse"><path d="M34 0H0V34" fill="none" stroke="#96b3e0" stroke-opacity=".075" stroke-width="1"/></pattern></defs>
-<rect width="1200" height="270" rx="18" fill="url(#bg)"/><rect width="1200" height="270" rx="18" fill="url(#grid)"/><path d="M65 49H1135" stroke="#00bfff" stroke-opacity=".4"/><rect x="65" y="76" width="8" height="118" rx="4" fill="url(#stroke)"/>
-<text x="99" y="113" fill="#92b8ec" font-size="18" font-family="Arial, sans-serif" letter-spacing="4">PORTFÓLIO PROFISSIONAL</text><text x="99" y="162" fill="#ffffff" font-size="42" font-weight="700" font-family="Arial, sans-serif">Marcos Paulo Braga</text><text x="100" y="202" fill="#9bdafa" font-size="22" font-family="Arial, sans-serif">Operações · Automação · Tecnologia</text>
-<g opacity=".65" stroke="url(#stroke)" stroke-width="2" fill="none"><circle cx="1024" cy="140" r="77"/><circle cx="1024" cy="140" r="57" stroke-opacity=".5"/><path d="M913 140H1135M1024 29V251M972 88L1076 192M1076 88L972 192" stroke-opacity=".26"/></g><circle cx="1024" cy="140" r="19" fill="#00bfff" fill-opacity=".85"/><circle cx="1024" cy="140" r="34" stroke="#00bfff" stroke-opacity=".6" fill="none"/><path d="M65 235H1135" stroke="#00bfff" stroke-opacity=".35"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-labelledby="title description">
+  <title id="title">Marcos Paulo Braga</title>
+  <desc id="description">Capa pessoal minimalista com fundo preto, nome branco centralizado e uma linha fina discreta.</desc>
+  <rect width="1200" height="270" fill="#000000"/>
+  <text x="600" y="134" text-anchor="middle" dominant-baseline="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="60"
+        font-weight="600" letter-spacing="0.5" fill="#FFFFFF">Marcos Paulo Braga</text>
+  <path d="M562 192H638" fill="none" stroke="#555555" stroke-width="1"/>
 </svg>
