@@ -12,20 +12,9 @@ Gosto de transformar problemas reais em processos claros, ferramentas úteis e s
 
 | Projeto | O que é | O que você pode conferir |
 | --- | --- | --- |
-| **[Incident SLA Lab](https://github.com/marcospsbraga/incident-sla-lab)** | Painel web interativo e analisador Python para incidentes, SLAs e métricas operacionais. | **[▶ Testar ao vivo](https://marcospsbraga.github.io/incident-sla-lab/)** · [Código e testes](https://github.com/marcospsbraga/incident-sla-lab) |
 | **[TITAN Command Center](cases/titan-command-center.md)** | Infraestrutura pessoal para organizar projetos, diagnósticos e agentes de IA com controles de autorização. | Estudo de caso técnico; repositório privado |
 | **IMPROVE OS** | Plataforma de operações empresariais em desenvolvimento pela IMPROVE. | Projeto empresarial privado, sem divulgação de código |
 | **JAY AI** | Projeto independente de assistente pessoal de IA. | Fase de arquitetura, ainda sem produto demonstrável |
-
-> O **Incident SLA Lab** é uma demonstração pública construída com dados inteiramente fictícios. Não utiliza nem representa informações de clientes, da operadora ou do empregador.
-
-### 👨‍💻 Veja um projeto funcionando
-
-[**Experimentar o painel no navegador →**](https://marcospsbraga.github.io/incident-sla-lab/)
-
-<a href="https://marcospsbraga.github.io/incident-sla-lab/"><img src="https://raw.githubusercontent.com/marcospsbraga/incident-sla-lab/main/assets/demo-preview.png" alt="Prévia do painel Incident SLA Lab com indicadores, filtros e gráficos" width="780" /></a>
-
-*Desenvolvido com Python, JavaScript, HTML e CSS, sem dados reais ou dependências externas. Testes automatizados de lógica e comparação dos resultados entre as duas versões.*
 
 ## Ferramentas e tecnologias
 
