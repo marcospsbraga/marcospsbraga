@@ -1,14 +1,14 @@
-# Nutrélume
+# NUTRA
 
 **Plataforma para profissionais de nutrição · Gestão do atendimento e jornada do paciente**
 
-> **Nome provisório — conceito em exploração.** Nutrélume é uma proposta de identidade para esta iniciativa. Não é uma marca aprovada ou registrada, nem um sistema implementado ou lançado.
+> **Nome de trabalho escolhido — conceito em exploração.** NUTRA é o nome selecionado para esta iniciativa. Sua disponibilidade como marca ou domínio ainda não foi verificada; não há sistema implementado ou lançado.
 
 ## Tecnologia a serviço do cuidado nutricional
 
 O trabalho de um nutricionista reúne atendimento clínico, acompanhamento, planejamento alimentar, documentação, comunicação e administração do consultório. Quando essas atividades ficam espalhadas em ferramentas diferentes, o profissional perde tempo e a continuidade do acompanhamento pode se tornar menos clara para o paciente.
 
-**Nutrélume** é a visão de um ambiente digital capaz de aproximar **eficiência profissional e experiência humana de acompanhamento**, sem colocar a tecnologia acima da decisão clínica.
+**NUTRA** é a visão de um ambiente digital capaz de aproximar **eficiência profissional e experiência humana de acompanhamento**, sem colocar a tecnologia acima da decisão clínica.
 
 O produto é pensado em duas frentes complementares:
 
@@ -48,6 +48,6 @@ Antes de qualquer implementação, será necessário priorizar os fluxos essenci
 
 ---
 
-**Estágio:** concepção e pesquisa de produto · **Código:** não iniciado · **Identidade:** nome provisório
+**Estágio:** concepção e pesquisa de produto · **Código:** não iniciado · **Identidade:** nome de trabalho escolhido, sem verificação de marca
 
 *Conceito de produto digital explorado no contexto da IMPROVE. Esta apresentação não constitui uma ferramenta clínica, não oferece aconselhamento nutricional e não descreve funcionalidades lançadas.*

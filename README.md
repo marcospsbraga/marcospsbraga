@@ -24,11 +24,11 @@ Tenho interesse especial na interseção entre **negócio, tecnologia e experiê
 
 | Projeto | Visão | Apresentação |
 | :--- | :--- | :--- |
-| **[Atlévora](cases/atlevora.md)** · *nome provisório* | Plataforma para academias que aproxima a gestão profissional da jornada do aluno, inclusive entre unidades e academias diferentes. | [Explorar o conceito](cases/atlevora.md) |
-| **[Nutrélume](cases/nutrelume.md)** · *nome provisório* | Ecossistema digital de nutrição com ambiente profissional, experiência do paciente e possibilidades de IA assistiva. | [Explorar o conceito](cases/nutrelume.md) |
+| **[AXIS](cases/axis.md)** · *nome de trabalho* | Plataforma para academias que aproxima a gestão profissional da jornada do aluno, inclusive entre unidades e academias diferentes. | [Explorar o conceito](cases/axis.md) |
+| **[NUTRA](cases/nutra.md)** · *nome de trabalho* | Ecossistema digital de nutrição com ambiente profissional, experiência do paciente e possibilidades de IA assistiva. | [Explorar o conceito](cases/nutra.md) |
 | **JAY AI** | Projeto pessoal de assistente com memória, interfaces e ações autorizadas. | Arquitetura em estudo; ainda sem produto publicado |
 
-**Transparência:** *em desenvolvimento* significa que há trabalho técnico ou de produto em andamento, não lançamento concluído. *Em concepção* significa exploração de necessidades e possibilidades; não equivale a software implementado. Os nomes Atlévora e Nutrélume são propostas de apresentação, ainda sem homologação ou avaliação formal de marca.
+**Transparência:** *em desenvolvimento* significa que há trabalho técnico ou de produto em andamento, não lançamento concluído. *Em concepção* significa exploração de necessidades e possibilidades; não equivale a software implementado. AXIS e NUTRA são os nomes escolhidos para estes conceitos, ainda sujeitos à verificação de marca e domínio antes de qualquer uso comercial.
 
 ## Áreas em que atuo
 

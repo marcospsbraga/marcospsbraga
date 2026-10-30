@@ -1,14 +1,14 @@
-# Atlévora
+# AXIS
 
 **Plataforma para academias · Gestão e experiência do aluno**
 
-> **Nome provisório — conceito em exploração.** Atlévora é uma proposta de identidade para apresentar esta iniciativa no portfólio. Não é uma marca aprovada ou registrada, não há software lançado e as funcionalidades descritas são hipóteses de produto.
+> **Nome de trabalho escolhido — conceito em exploração.** AXIS é o nome selecionado para apresentar esta iniciativa no portfólio. Ainda não foi verificada a disponibilidade da marca ou do domínio; não há software lançado e as funcionalidades descritas são hipóteses de produto.
 
 ## Uma plataforma, duas experiências de igual importância
 
 Uma academia precisa conciliar administração, atendimento, professores, atividades e relacionamento com alunos. Ao mesmo tempo, o aluno quer uma experiência simples e contínua, centrada em sua evolução — não apenas um aplicativo de pagamentos ou acesso à unidade.
 
-**Atlévora** é a visão de uma plataforma que trata essas duas necessidades como partes de um único produto:
+**AXIS** é a visão de uma plataforma que trata essas duas necessidades como partes de um único produto:
 
 **01 · Centro de operações da academia**
 
@@ -53,6 +53,6 @@ O foco atual é **modelar bem o problema antes de começar o código**: experiê
 
 ---
 
-**Estágio:** concepção e pesquisa de produto · **Código:** não iniciado · **Identidade:** nome provisório
+**Estágio:** concepção e pesquisa de produto · **Código:** não iniciado · **Identidade:** nome de trabalho escolhido, sem verificação de marca
 
 *Iniciativa explorada no contexto de produtos digitais da IMPROVE. Nenhum cliente, implantação, resultado comercial ou funcionalidade operacional é reivindicado nesta apresentação.*
